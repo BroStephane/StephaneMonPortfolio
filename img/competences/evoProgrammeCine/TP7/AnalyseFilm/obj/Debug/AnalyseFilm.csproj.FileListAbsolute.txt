@@ -1,0 +1,14 @@
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\obj\Debug\AnalyseFilm.csprojAssemblyReference.cache
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\obj\Debug\AnalyseFilm.csproj.CoreCompileInputs.cache
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\bin\Debug\AnalyseFilm.exe.config
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\bin\Debug\AnalyseFilm.exe
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\bin\Debug\AnalyseFilm.pdb
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\obj\Debug\AnalyseFilm.exe
+E:\2020-2021\bloc1\Version finale\Bloc1-bases prog\Chapitre4-Tableau-Liste-ListeAvecStructure\Partie3-Liste-de-Structures\AnalyseFilm\AnalyseFilm\obj\Debug\AnalyseFilm.pdb
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\bin\Debug\AnalyseFilm.exe.config
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\bin\Debug\AnalyseFilm.exe
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\bin\Debug\AnalyseFilm.pdb
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\obj\Debug\AnalyseFilm.csprojAssemblyReference.cache
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\obj\Debug\AnalyseFilm.csproj.CoreCompileInputs.cache
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\obj\Debug\AnalyseFilm.exe
+F:\Kintzler\Bloc1_prog_Coppe\Chapitre_4\Partie 3\TP7\TP7\AnalyseFilm\obj\Debug\AnalyseFilm.pdb
