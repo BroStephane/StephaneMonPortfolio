@@ -90,7 +90,11 @@ section {
   font-size: 2rem;
   color: #fff; }
 
-  
+.centrer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
   
 .jumbotron {
   color: #fff;
